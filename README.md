@@ -1,5 +1,9 @@
 # Clicky-Game
 
+The link below will give you direct access to Clicky-Game web application
+
+* [Clicky-Game](https://hanbanana.github.io/Memory-React-Clicky-Game/)
+
 ## Instructions
 
 1. Create a new React application using Create React App.
